@@ -155,3 +155,94 @@ body{
 /* Para formataçao de cada div deste sub-grupo separadamente*/
 
 /* Quarta Section*/
+.conteiner4 {
+    display: flex;
+}
+
+/* Bloco esquerdo de experiencias*/
+#exp {
+    background-color: rgb(51, 50, 50);
+    width: 30%;
+}
+
+#exptxt {
+    text-align: right;
+    padding-right: 30px;
+}
+
+/* Bloco direito de experiencias*/
+#descrition {
+    background-color: rgb(49, 48, 48);
+    width: 70%;
+}
+
+#jokenpo{
+    display: flex;
+    margin-top: 1%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 0px;
+}
+#jokenpo_descrition{
+    display: flex;
+    margin-top: 0px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 0px;
+}
+#system{
+    display: flex;
+    margin-top: 0px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 0px;
+}
+#system_descrition{
+    display: flex;
+    margin-top: 0px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 0px;
+}
+#page{
+    display: flex;
+    margin-top: 0px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 0px;
+}
+#page_descrition{
+    display: flex;
+    margin-top: 0px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 0px;
+}
+
+/* Quinta Section*/
+.conteiner5 {
+    display: flex;
+}
+
+#teltxt {
+    background-color: rgb(49, 48, 48);
+    width: 30%;
+}
+
+#ttxt {
+    text-align: right;
+    padding-right: 30px;
+}
+
+
+.contact {
+    background-color: rgb(51, 50, 50);
+    width: 70%;
+}
+#contacts {
+    display: flex;
+    margin-top: 1%;
+    margin-left: 5%;
+    margin-right: 5%;
+    justify-content: space-between;
+}
